@@ -1,0 +1,20 @@
+build
+data.txt
+dist
+et.txt
+Makefile
+nbproject
+out1.txF
+
+output.txt
+
+out.txt
+out.txt
+
+rr.tx
+script.sh
+try1.txt
+
+try.txt
+
+appending text
